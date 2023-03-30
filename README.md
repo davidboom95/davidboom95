@@ -1,3 +1,5 @@
+<div style="display: flex;">
+<div style="flex: 1; padding-right: 20px;">
 # David Andrés Pérez Valderrama - Full Stack Developer :rocket:
 
 Hello there! :wave: I'm David, a passionate Full Stack Developer from Colombia :colombia: with a deep interest in AI and serverless technologies. I'm always pushing the boundaries of web development by using cutting-edge tools and frameworks to create stunning user experiences and powerful web solutions.
@@ -29,3 +31,10 @@ If you want to know more about me or join me on this incredible coding journey, 
 ---
 
 If you know someone who'd benefit from this GitHub profile, feel free to share it with them! :sparkles:
+</div>
+  
+<div style="">
+<a href="https://app.daily.dev/davidboom95"><img src="https://api.daily.dev/devcards/b532e6a3e5434edeaa7dcec6b1129571.png?r=0wj" width="400" alt="David Andres's Dev Card"/></a>
+</div>
+
+</div>
